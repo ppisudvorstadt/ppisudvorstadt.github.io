@@ -4,6 +4,8 @@ PPI Südvortadt adalah Perhimpunan Pelajar Indonesia yang berada di area sekitar
 PPI ini merupakan PPI pertama dan satu-satunya yang ada di kota Dresden.
 Dasar dari PPI ini dibentuk yaitu untuk menghimpun pelajar indonesia dan menjadi wadah bagi pelajar untuk berkreasi dan mengembangkan minat dan bakat.
 
+<!-- START OF THE RADIO HTML5 PLAYER EMBEDDING --> <audio controls="true" preload="none"><source src="http://45.32.103.238:8028/;stream.mp3" type="audio/mp3">Your browser does not support the audio element.</audio> <!-- END OF THE RADIO HTML5 PLAYER EMBEDDING -->
+
 ## Visi & Misi
 
 PPI Südvorstadt memiliki visi & misi yaitu:
