@@ -14,7 +14,7 @@ Senin -> 11.07.2022 jam 19:00 - 23.00 CET
 
 Selasa -> 12.07.2022 jam 19:00 - 23.00 CET
 
-<!-- START OF THE RADIO HTML5 PLAYER EMBEDDING --> <audio controls="controls"><source src="http://45.32.103.238:8028/;stream.mp3" type="audio/mp3">Your browser does not support the audio element.</audio> <!-- END OF THE RADIO HTML5 PLAYER EMBEDDING -->
+<!-- START OF THE RADIO HTML5 PLAYER EMBEDDING --> <audio controls="controls"><source src="http://45.32.103.238:8028/;stream.wav" type="audio/mpeg">Your browser does not support the audio element.</audio> <!-- END OF THE RADIO HTML5 PLAYER EMBEDDING -->
 
 ## Visi & Misi
 
