@@ -21,7 +21,7 @@ Selasa -> 12.07.2022 jam 19:00 - 23.00 CET
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-Buat yang pake Chrome atau Edge, bisa langsung ke http://45.32.103.238:8028/;stream.mp3
+Buat yang pake Chrome atau Edge, bisa langsung ke [http://45.32.103.238:8028/;stream.mp3](http://45.32.103.238:8028/;stream.mp3)
 
 
 ## Visi & Misi
