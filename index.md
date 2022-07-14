@@ -10,9 +10,7 @@ Tap play untuk memutar stasiun Radio 👇🏻
 
 Jadwal On Air : 
 
-Senin -> 11.07.2022 jam 19:00 - 23.00 CET
-
-Selasa -> 12.07.2022 jam 19:00 - 23.00 CET
+Sabtu -> 16.07.2022 jam 19:00 - 23.00 CET
 
 (compatible for safari, mozilla)
 
