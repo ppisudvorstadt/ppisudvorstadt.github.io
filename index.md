@@ -8,9 +8,11 @@ Dasar dari PPI ini dibentuk yaitu untuk menghimpun pelajar indonesia dan menjadi
 
 Tap play untuk memutar stasiun Radio 👇🏻
 
-Jadwal On Air : 
+Jadwal On Air: 
 
-Sabtu -> 16.07.2022 jam 19:00 - 23.00 CET
+Sabtu -> 27.08.2022 jam 19:00 - 23.00 CET
+
+Minggu -> 28.08.2022 jam 19:00 - 23.00 CET
 
 (compatible for safari, mozilla)
 
