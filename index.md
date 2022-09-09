@@ -8,11 +8,10 @@ Dasar dari PPI ini dibentuk yaitu untuk menghimpun pelajar indonesia dan menjadi
 
 Tap play untuk memutar stasiun Radio 👇🏻
 
-Jadwal On Air: 
+Jadwal On Air Program "ASIAN ngHITz": 
 
-Sabtu -> 27.08.2022 jam 19:00 - 23.00 CET
+Sabtu -> 10.09.2022 jam 14:00 - 17.00 CET / 19:00 - 22:00 WIB
 
-Minggu -> 28.08.2022 jam 19:00 - 23.00 CET
 
 (compatible for safari, mozilla)
 
